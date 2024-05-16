@@ -9,8 +9,8 @@ from bs4 import BeautifulSoup
 from openpyxl import Workbook
 
 # Define your login credentials
-# username = 'Raulr@rdiparts.com'
-# password = 'Trucks2024$'
+# username = ''
+# password = ''
 
 # Create a session to handle authentication and cookies
 session = requests.Session()
